@@ -9,6 +9,7 @@ Link to the deployed application: https://budget-trapper-keeper.herokuapp.com/
 
 ## Table of Contents 
 * [Installation](#installation)
+* [Technologies](#technologies)
 * [Usage](#usage)
 * [Testing](#testing)
 * [License](#license)
@@ -18,6 +19,17 @@ Run the following command to install any necessary packages.
 ```
 npm i
 ```
+## Technologies
+The following technologies were used in creating this application:
+* HTML, CSS
+* JavaScript
+* Compression
+* dotenv
+* MongoDB
+* Mongoose
+* Express
+* Morgan
+* webmanifest, service-worker
 ## Usage
 Navigate to the live site and begin entering your transactions. Try switching to offline to enter a transaction, and notice that the app is still functional and the data persists.
 ## Testing
